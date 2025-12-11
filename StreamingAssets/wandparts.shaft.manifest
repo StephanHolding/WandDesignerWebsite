@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.0f1
+CRC: 3798701780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2d55c775f0eb857eae92bdb44b9edf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91ec8d9322b623bff4fe29f60a374d5f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1d062952711928af93ea4d1fefa4cb10
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0858fce9234f6744b909b888792222af, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Wand Prefabs/Shaft/Shaft_02.prefab
+- Assets/Resources/Wand Prefabs/Shaft/Shaft_01.prefab
+Dependencies: []
